@@ -15,6 +15,14 @@
       "type": "outcome",
       "createdAt": "2023-04-06T01:47:55.275Z",
       "id": 2
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de API",
+      "price": 310000,
+      "type": "income",
+      "createdAt": "2023-04-06T02:57:30.209Z",
+      "id": 3
     }
   ]
 }
